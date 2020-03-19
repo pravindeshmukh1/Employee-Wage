@@ -1,4 +1,3 @@
-import com.sun.deploy.security.SelectableSecurityManager;
 
 public class EmployeeWageProblem {
     public static void main(String[] args) {
